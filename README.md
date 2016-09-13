@@ -1,2 +1,2 @@
 # hello-world
-go giants
+go lions
